@@ -14,5 +14,4 @@ The analysis was performed on the [Brazilian E-Commerce Public Dataset by Olist]
 ## Files in this Repository
 
 * Ecommerce_analysis_queries.sql: Contains all the SQL queries used for the analysis.
-* ecommerce.db: The SQLite database file containing the imported data.
 * Sql_Queries_output_screenshot.pdf: Screenshots of the output for each query.
